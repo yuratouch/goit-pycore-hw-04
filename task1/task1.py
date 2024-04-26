@@ -5,7 +5,7 @@ file_path = Path("salary_file.txt")
 def total_salary(path):
     try:
         sum = 0
-        with open(path) as file:
+        with open(path, encoding='utf-8') as file:
             lines = [el.strip() for el in file.readlines()]
         
         for line in lines:
