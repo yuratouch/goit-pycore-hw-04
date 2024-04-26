@@ -1,0 +1,6 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Stan Lee,3000
+Optimus Prime,2000
+Paul Athredius,1000
